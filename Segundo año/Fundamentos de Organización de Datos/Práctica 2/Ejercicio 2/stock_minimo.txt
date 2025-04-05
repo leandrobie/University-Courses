@@ -1,0 +1,8 @@
+1 Fideos Mat
+ 38.123 5 10
+3 Galletitas
+ 2.305 7 10
+6 Leche Armo
+ 3.501 0 10
+11 Aceite Nat
+ 90.102 5 10
