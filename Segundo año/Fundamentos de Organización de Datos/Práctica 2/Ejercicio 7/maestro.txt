@@ -1,0 +1,5 @@
+1 5 2 Bie Leandro
+2 6 4 Facundo Villca
+3 3 1 Federico Lobel
+4 10 6 Alvaro Aufmuth
+5 3 1 Alejo Bie
