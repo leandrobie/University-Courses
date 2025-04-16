@@ -152,29 +152,31 @@ type
 		while ((regdCursada.cod_alu<>valorAlto) or (regdFinal.cod_alu<>valorAlto)) do
 			begin
 				read(mae,regm);
-				while ((regdCursada.cod_alu<>valorAlto) and (regdCursada.cod_alu<>regm.cod_alu)) do begin //Busco en el detalle de cursadas el cod alu del maestro
+				
+				//Busco en el detalle de cursadas el cod alu del maestro
+				while ((regdCursada.cod_alu<>valorAlto) and (regdCursada.cod_alu<regm.cod_alu)) do
+			    begin 
 					leerDetCursada(detCursada,regdCursada);
-					writeln('cod de alumno reg cursadas ',regdCursada.cod_alu);
 				end;
 					
 				//Una vez que encuentro el mismo codigo, actualizo de ser necesario
 				while (regdCursada.cod_alu=regm.cod_alu) do
 					begin
-						if (regdCursada.resultado='Aprobado') then
+						if (regdCursada.resultado=' Aprobado') then
 							regm.cant_cursadas_aprobadas:=regm.cant_cursadas_aprobadas + 1;
-						writeln('Cantidad de cursadas aprobadas ',regm.cant_cursadas_aprobadas);
 						leerDetCursada(detCursada,regdCursada);
 					end;
 				
-				while ((regdFinal.cod_alu<>valorAlto) and (regdFinal.cod_alu<>regm.cod_alu)) do begin //Busco en el detalle de finales el cod alu del maestro
+				//Busco en el detalle de finales el cod alu del maestro
+				while ((regdFinal.cod_alu<>valorAlto) and (regdFinal.cod_alu<regm.cod_alu)) do begin 
 					leerDetFinal(detFinales,regdFinal);
-					writeln('Cod alu reg final ',regdFinal.cod_alu);
 				end;
+				
+				//Una vez que encuentro el mismo cod, le incremento a la cantidad de finales si cumple la condición
 				while (regdFinal.cod_alu=regm.cod_alu) do
 					begin
 						if (regdFinal.nota>=4) then
 							regm.cant_finales_aprobados:=regm.cant_finales_aprobados + 1;
-						writeln('Cant de finales ',regm.cant_finales_aprobados);
 						leerDetFinal(detFinales,regdFinal);
 					end;
 				seek(mae,filepos(mae)-1);
@@ -182,7 +184,7 @@ type
 			end;
 		writeln('Archivo maestro actualizado');
 		close(mae);
-		close(detCursada	);
+		close(detCursada);
 		close(detFinales);
 	end;
 
@@ -208,6 +210,44 @@ type
 		close(mae);
 	end;
 	
+	procedure imprimirDetalleCursada(var detCursada:detalle_cursadas);
+	
+		procedure imprimirAluCursada(alu:infoDetCursada);
+		begin
+			writeln('Codigo de alumno ',alu.cod_alu,'; Codigo de materia ',alu.cod_materia,' ;Año de cursada ',alu.anio_cursada,'; resultado ',alu.resultado);
+		end;
+		
+	var
+		alu:infoDetCursada;
+	begin
+		reset(detCursada);
+		while (not(eof(detCursada))) do
+			begin
+				read(detCursada,alu);
+				imprimirAluCursada(alu);
+			end;
+		close(detCursada);
+	end;
+	
+	procedure imprimirDetalleFinal(var detFinal:detalle_finales);
+	
+		procedure imprimirAluFinal(alu:infoDetFinal);
+		begin
+			writeln('Codigo de alumno ',alu.cod_alu,'; Codigo de materia ',alu.cod_materia,'; Fecha ',alu.fecha,'; Nota ',alu.nota);
+		end;
+	
+	var
+		alu:infoDetFinal;
+	begin
+		reset(detFinal);
+		while (not(eof(detFinal))) do
+			begin
+				read(detFinal,alu);
+				imprimirAluFinal(alu);
+			end;
+		close(detFinal);
+	end;
+	
 var
 	detCursadas:detalle_cursadas;
 	detFinales:detalle_finales;
@@ -219,7 +259,6 @@ begin
 	assign(detCursadas,'detCursadas.dat');
 	assign(detFinales,'detFinales.dat');
 	assign(mae,'mae.dat');
-	writeln('----------Impresion del maestro antes de actualizar---------');
 	actualizarMaestro(mae,detCursadas,detFinales);
 	imprimirMaestro(mae);
 end.
