@@ -1,0 +1,6 @@
+1 300 500 Buenos Aires
+2 500 1000 La Pampa
+3 100 800 Corrientes
+4 1000 5800 Río Negro
+5 5000 9000 Salta
+6 300 10 Misiones
