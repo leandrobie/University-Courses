@@ -1,0 +1,31 @@
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\bin\Debug\net8.0\Sistema.Repositorio.deps.json
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\bin\Debug\net8.0\Sistema.Repositorio.dll
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\bin\Debug\net8.0\Sistema.Repositorio.pdb
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\bin\Debug\net8.0\Sistema.Aplicacion.dll
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\bin\Debug\net8.0\Sistema.Aplicacion.pdb
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema.Repositorio.csproj.AssemblyReference.cache
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema.Repositorio.AssemblyInfoInputs.cache
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema.Repositorio.AssemblyInfo.cs
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema.Repositorio.sourcelink.json
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema..57351C25.Up2Date
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema.Repositorio.dll
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\obj\Debug\net8.0\refint\Sistema.Repositorio.dll
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema.Repositorio.pdb
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Repositorio\obj\Debug\net8.0\ref\Sistema.Repositorio.dll
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Repositorio\bin\Debug\net8.0\Sistema.Repositorio.deps.json
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Repositorio\bin\Debug\net8.0\Sistema.Repositorio.dll
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Repositorio\bin\Debug\net8.0\Sistema.Repositorio.pdb
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Repositorio\bin\Debug\net8.0\Sistema.Aplicacion.dll
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Repositorio\bin\Debug\net8.0\Sistema.Aplicacion.pdb
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema.Repositorio.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema.Repositorio.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema.Repositorio.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema..57351C25.Up2Date
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema.Repositorio.dll
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Repositorio\obj\Debug\net8.0\refint\Sistema.Repositorio.dll
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Repositorio\obj\Debug\net8.0\Sistema.Repositorio.pdb
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Repositorio\obj\Debug\net8.0\ref\Sistema.Repositorio.dll

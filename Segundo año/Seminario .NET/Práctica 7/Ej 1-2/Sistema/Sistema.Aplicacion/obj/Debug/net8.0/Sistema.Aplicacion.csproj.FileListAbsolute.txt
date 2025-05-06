@@ -1,0 +1,23 @@
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\Sistema.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\Sistema.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\Sistema.Aplicacion.AssemblyInfo.cs
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\Sistema.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\Sistema.Aplicacion.sourcelink.json
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Aplicacion\bin\Debug\net8.0\Sistema.Aplicacion.deps.json
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Aplicacion\bin\Debug\net8.0\Sistema.Aplicacion.dll
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Aplicacion\bin\Debug\net8.0\Sistema.Aplicacion.pdb
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\Sistema.Aplicacion.dll
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\refint\Sistema.Aplicacion.dll
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\Sistema.Aplicacion.pdb
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\ref\Sistema.Aplicacion.dll
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Aplicacion\bin\Debug\net8.0\Sistema.Aplicacion.deps.json
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Aplicacion\bin\Debug\net8.0\Sistema.Aplicacion.dll
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Aplicacion\bin\Debug\net8.0\Sistema.Aplicacion.pdb
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\Sistema.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\Sistema.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\Sistema.Aplicacion.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\Sistema.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\Sistema.Aplicacion.dll
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\refint\Sistema.Aplicacion.dll
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\Sistema.Aplicacion.pdb
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sistema.Aplicacion\obj\Debug\net8.0\ref\Sistema.Aplicacion.dll

@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sitema.Consola\\Sitema.Consola.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sistema.Aplicacion\\Sistema.Aplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sistema.Aplicacion\\Sistema.Aplicacion.csproj",
+        "projectName": "Sistema.Aplicacion",
+        "projectPath": "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sistema.Aplicacion\\Sistema.Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sistema.Aplicacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.310/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sistema.Repositorio\\Sistema.Repositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sistema.Repositorio\\Sistema.Repositorio.csproj",
+        "projectName": "Sistema.Repositorio",
+        "projectPath": "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sistema.Repositorio\\Sistema.Repositorio.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sistema.Repositorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sistema.Aplicacion\\Sistema.Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sistema.Aplicacion\\Sistema.Aplicacion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.310/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sitema.Consola\\Sitema.Consola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sitema.Consola\\Sitema.Consola.csproj",
+        "projectName": "Sitema.Consola",
+        "projectPath": "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sitema.Consola\\Sitema.Consola.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sitema.Consola\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sistema.Aplicacion\\Sistema.Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sistema.Aplicacion\\Sistema.Aplicacion.csproj"
+              },
+              "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sistema.Repositorio\\Sistema.Repositorio.csproj": {
+                "projectPath": "C:\\Users\\marce\\OneDrive\\Escritorio\\Sistema\\Sistema.Repositorio\\Sistema.Repositorio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.310/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

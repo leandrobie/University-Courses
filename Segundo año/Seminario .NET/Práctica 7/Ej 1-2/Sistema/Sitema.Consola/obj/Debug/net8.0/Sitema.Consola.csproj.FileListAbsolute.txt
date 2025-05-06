@@ -1,0 +1,41 @@
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\bin\Debug\net8.0\Sitema.Consola.exe
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\bin\Debug\net8.0\Sitema.Consola.deps.json
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\bin\Debug\net8.0\Sitema.Consola.runtimeconfig.json
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\bin\Debug\net8.0\Sitema.Consola.dll
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\bin\Debug\net8.0\Sitema.Consola.pdb
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\bin\Debug\net8.0\Sistema.Aplicacion.dll
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\bin\Debug\net8.0\Sistema.Repositorio.dll
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\bin\Debug\net8.0\Sistema.Aplicacion.pdb
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\bin\Debug\net8.0\Sistema.Repositorio.pdb
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.csproj.AssemblyReference.cache
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.AssemblyInfoInputs.cache
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.AssemblyInfo.cs
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.csproj.CoreCompileInputs.cache
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.sourcelink.json
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.C.FF017D50.Up2Date
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.dll
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\obj\Debug\net8.0\refint\Sitema.Consola.dll
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.pdb
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.genruntimeconfig.cache
+C:\Users\facuv\OneDrive\Escritorio\INFORMATICA\segundo año\Primer semestre\.NET\Sistema\Sitema.Consola\obj\Debug\net8.0\ref\Sitema.Consola.dll
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\bin\Debug\net8.0\Sitema.Consola.exe
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\bin\Debug\net8.0\Sitema.Consola.deps.json
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\bin\Debug\net8.0\Sitema.Consola.runtimeconfig.json
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\bin\Debug\net8.0\Sitema.Consola.dll
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\bin\Debug\net8.0\Sitema.Consola.pdb
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\bin\Debug\net8.0\Sistema.Aplicacion.dll
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\bin\Debug\net8.0\Sistema.Repositorio.dll
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\bin\Debug\net8.0\Sistema.Aplicacion.pdb
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\bin\Debug\net8.0\Sistema.Repositorio.pdb
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.C.FF017D50.Up2Date
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.dll
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\obj\Debug\net8.0\refint\Sitema.Consola.dll
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.pdb
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\obj\Debug\net8.0\Sitema.Consola.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Escritorio\Sistema\Sitema.Consola\obj\Debug\net8.0\ref\Sitema.Consola.dll
