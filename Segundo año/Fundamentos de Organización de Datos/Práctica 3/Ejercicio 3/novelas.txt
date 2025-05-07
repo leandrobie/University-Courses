@@ -1,0 +1,4 @@
+0   0  0.000
+1 Terror A 90 Leandro Bie 9021.230
+2 Fantasia B 50 Facundo Villca 900.120
+4 Romance Cabj 50 Leonardo Da Vin 90000.000
