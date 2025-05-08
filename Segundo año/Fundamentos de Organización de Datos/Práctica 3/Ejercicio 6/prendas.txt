@@ -1,0 +1,12 @@
+5 descripcion cinco
+10 azul
+5000.60 Remera
+2 descripcion dos
+5 rojo
+6000.12 Pantalon
+7 descripcion siete
+2 celeste
+7000 Camisa
+1 descripcion uno
+3 turquesa
+9000 Guantes
