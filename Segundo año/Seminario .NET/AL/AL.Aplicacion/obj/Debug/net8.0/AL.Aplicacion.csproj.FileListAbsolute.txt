@@ -1,0 +1,11 @@
+C:\Users\marce\proyectosDotnet\AL\AL.Aplicacion\bin\Debug\net8.0\AL.Aplicacion.deps.json
+C:\Users\marce\proyectosDotnet\AL\AL.Aplicacion\bin\Debug\net8.0\AL.Aplicacion.dll
+C:\Users\marce\proyectosDotnet\AL\AL.Aplicacion\bin\Debug\net8.0\AL.Aplicacion.pdb
+C:\Users\marce\proyectosDotnet\AL\AL.Aplicacion\obj\Debug\net8.0\AL.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\proyectosDotnet\AL\AL.Aplicacion\obj\Debug\net8.0\AL.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\marce\proyectosDotnet\AL\AL.Aplicacion\obj\Debug\net8.0\AL.Aplicacion.AssemblyInfo.cs
+C:\Users\marce\proyectosDotnet\AL\AL.Aplicacion\obj\Debug\net8.0\AL.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\marce\proyectosDotnet\AL\AL.Aplicacion\obj\Debug\net8.0\AL.Aplicacion.dll
+C:\Users\marce\proyectosDotnet\AL\AL.Aplicacion\obj\Debug\net8.0\refint\AL.Aplicacion.dll
+C:\Users\marce\proyectosDotnet\AL\AL.Aplicacion\obj\Debug\net8.0\AL.Aplicacion.pdb
+C:\Users\marce\proyectosDotnet\AL\AL.Aplicacion\obj\Debug\net8.0\ref\AL.Aplicacion.dll

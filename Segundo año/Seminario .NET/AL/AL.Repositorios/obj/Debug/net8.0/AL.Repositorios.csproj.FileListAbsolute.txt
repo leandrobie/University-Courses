@@ -1,0 +1,15 @@
+C:\Users\marce\proyectosDotnet\AL\AL.Repositorios\bin\Debug\net8.0\AL.Repositorios.deps.json
+C:\Users\marce\proyectosDotnet\AL\AL.Repositorios\bin\Debug\net8.0\AL.Repositorios.dll
+C:\Users\marce\proyectosDotnet\AL\AL.Repositorios\bin\Debug\net8.0\AL.Repositorios.pdb
+C:\Users\marce\proyectosDotnet\AL\AL.Repositorios\bin\Debug\net8.0\AL.Aplicacion.dll
+C:\Users\marce\proyectosDotnet\AL\AL.Repositorios\bin\Debug\net8.0\AL.Aplicacion.pdb
+C:\Users\marce\proyectosDotnet\AL\AL.Repositorios\obj\Debug\net8.0\AL.Repositorios.csproj.AssemblyReference.cache
+C:\Users\marce\proyectosDotnet\AL\AL.Repositorios\obj\Debug\net8.0\AL.Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\proyectosDotnet\AL\AL.Repositorios\obj\Debug\net8.0\AL.Repositorios.AssemblyInfoInputs.cache
+C:\Users\marce\proyectosDotnet\AL\AL.Repositorios\obj\Debug\net8.0\AL.Repositorios.AssemblyInfo.cs
+C:\Users\marce\proyectosDotnet\AL\AL.Repositorios\obj\Debug\net8.0\AL.Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\marce\proyectosDotnet\AL\AL.Repositorios\obj\Debug\net8.0\AL.Repos.05DDFA7F.Up2Date
+C:\Users\marce\proyectosDotnet\AL\AL.Repositorios\obj\Debug\net8.0\AL.Repositorios.dll
+C:\Users\marce\proyectosDotnet\AL\AL.Repositorios\obj\Debug\net8.0\refint\AL.Repositorios.dll
+C:\Users\marce\proyectosDotnet\AL\AL.Repositorios\obj\Debug\net8.0\AL.Repositorios.pdb
+C:\Users\marce\proyectosDotnet\AL\AL.Repositorios\obj\Debug\net8.0\ref\AL.Repositorios.dll
